@@ -9,5 +9,6 @@ modif2 fichier 1
 modif3 fichier 1
 
 test modif sur local
+test2 modif sur local
 
 
